@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* Unidade = 1em = 12pt = 16px = 100% */
+h1 { font-family: Arial; font-size: 18pt; color:red; text-align: center;
+}
+h2 { font-family: Arial; font-size: 12pt; color:green; text-align: center;
+}
+h3 { font-family: Arial; font-size: 12pt; color: olive; text-align: center;
+}
+h4 {font-family: Arial; font-size: 12pt; color: blue; text-align: left;
+}
+h5 { font-family: Arial; font-size: 12pt; color: saddlebrown; text-align: justify; padding: 10px; text-indent: 50px; hyphens: auto; background-image: url ("_img/aco.jpg");
+}
+h6 {font-family: Times New Roman; font-size: 16pt; color: black; text-align: left;
+}
+p#p1 {font-family: Times New Roman; font-size: 10pt; color: royalblue; text-align: left;
+}
+h7 {font-family: Times New Roman; font-size: 16pt; color: black; text-align: left;
+}
+p#p2 {font-family: Times New Roman; font-size: 10pt; color: royalblue; text-align: left;
+}
+h8 {font-family: Times New Roman; font-size: 16pt; color: black; text-align: left;
+}
+p#p3 {font-family: Times New Roman; font-size: 10pt; color: royalblue; text-align: left;
+}
